@@ -1,0 +1,29 @@
+---
+layout: default
+title: art gallery
+---
+<a href="/gallery.html">main gallery</a> / <a href="art.html">art</a>
+<h2>2026</h2>
+<div class="artgallery">
+{% assign sorted_art = site.art | sort: 'order' | reverse %}
+  {% for art in sorted_art %}
+
+    {% if art.year == 2026 %}
+    <div class="artitem">
+        <a href="{{ art.url }}"><img src="{{ art.image }}"></a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<h2>2019</h2>
+<div class="artgallery">
+  {% for art in sorted_art %}
+
+    {% if art.year == 2019 %}
+    <div class="artitem">
+        <a href="{{ art.url }}"><img src="{{ art.image }}"></a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

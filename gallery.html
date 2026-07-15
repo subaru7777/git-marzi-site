@@ -1,0 +1,18 @@
+---
+title: gallery
+layout: default
+---
+<h1>gallery</h1>
+
+<h2>~ <a href="art.html">[art gallery]</a></h2>
+<div class="artgallery">
+{% assign sorted_art = site.art | sort: 'date' | reverse %}
+{% for art in sorted_art limit:3 %}
+<div class="artitem">
+        <a href="{{ art.url }}"><img src="{{ art.image }}"></a>
+      </div>
+{% endfor %}
+</div>
+<p><span class="caption">most recent art... click the gallery for more.</span></p>
+
+<h2>[second life gallery] ~ coming soon</h2>

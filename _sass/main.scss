@@ -1,0 +1,111 @@
+body {
+    @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+    background-image: url("/assets/images/bg2.png");
+    background-size: 90px;
+    background-repeat: repeat;
+    font-family: "Arimo", sans-serif;
+    color: #0b0b5b;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 45%;
+    padding-left: 3px;
+}
+
+
+header {
+    text-align: center;
+}
+
+main {
+    border: 1px solid blue;
+    padding: 7px;
+    background-color: white;
+}
+
+p {
+    margin: 10px auto;
+}
+
+p.small {
+    margin: 0 auto;
+}
+
+p.center {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+img.small {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.caption {
+    font-size: 16px;
+    color: #686874;
+}
+hr.b {
+    border: 1px solid rgb(203, 203, 213);
+
+}
+h1 {
+    margin: 5px auto;
+}
+
+h2 {
+    margin: 3px auto;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(71, 71, 255);
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.artgallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.artitem {
+    width: 20%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.artitem img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.1s ease-in-out;
+}
+
+.artitem img:hover {
+    opacity: 0.6;
+    border: 1px solid blue;
+}

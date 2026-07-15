@@ -6,7 +6,7 @@ date: 2026-06-30
 year: 2026
 ---
 
-happy pride day ~ im not even binary i'm like some other shit
+happy pride month ~ im not even binary i'm like some other shit
 
 **date:** june 30, 2026
 

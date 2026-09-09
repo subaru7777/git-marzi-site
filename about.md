@@ -4,14 +4,13 @@ title: about
 ---
 
 # about
+<hr class="b">
 
-hallo, my name is **marzi** (they/she/it)
+hallo, my name is **marzi** (they/them)
 
-i am an american-swiss artist who enjoys drawing furry creatures. i specialize in digital art, though occasionally i use traditional medias. i also have an interest in music, 3d art, graphic design, and web design. on the internet i am a dragon, but my true form is one of a cat.
 
-## why?
+i am a dragon
 
-i wanted to have a personal site because i love customizing to my liking & because not everyone has social media. there's something special about being a webmaster.
 
 <hr class="b">
 
@@ -30,7 +29,7 @@ i wanted to have a personal site because i love customizing to my liking & becau
 
 ## links
 
-<p>🔞 <a href="https://bsky.app/profile/marzisuka.bsky.social">bluesky</a> ★ 🔞 <a href="https://www.furaffinity.net/user/marzisuka">furaffinity</a> ★ <a href="https://marzisuka.itch.io/">itch.io</a> ★ <a href="https://www.tumblr.com/marzisuka">tumblr</a></p>
+<p>🔞 <a href="https://bsky.app/profile/marzisuka.bsky.social">bluesky</a> ★ 🔞 <a href="https://www.furaffinity.net/user/marzisuka">furaffinity</a> ★ <a href="https://marzisuka.itch.io/">itch.io</a></p>
 <p><b>email:</b> <a href="mailto:marzisuka@proton.me">marzisuka@proton.me</a></p>
 <hr class="b">
 ## fav pokemon

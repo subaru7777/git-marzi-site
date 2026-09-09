@@ -18,8 +18,8 @@ the only issue i have is that it is always in the back of my other programs, so 
 
 this section is to document some errors i had while installing using the script, in case others have the same issue. fortunately the log for this script is very straight-forward, if you go into it, it will tell you what to do. originally i got the "ERROR: corefonts cjkfonts vcrun2022 dotnet48 dxvk vkd3d failed" - for me this meant installing these and trying again. after this, i had an issue with viewing clip studio paint's installshield wizard - it would appear as a very small white screen with no information. i decided to let it time out and received this error: "Wine cannot find the FreeType font library." once again, after i installed this font library, everything began working - the install screen actually had text and wasn't just a blank white window.
 
-also unrelated i feel like linux has so many more contributions now compared to when i used it the first time years ago. i can play roblox on here! very cool. (although it crashes with really custom-heavy games like dress to impress which sucks but understandable). i traded visual studio code for code - oss and its like basically the same program visually. i use fooyin as my music player (i finally ditched spotify fuck you spotify). i have yet to customize my terminal but one day i shall.
+also unrelated i feel like linux has so many more contributions now compared to when i used it the first time years ago. i can play roblox on here! very cool. i traded visual studio code for code - oss and its like basically the same program visually. i use fooyin as my music player (i finally ditched spotify fuck you spotify). i have yet to customize my terminal but one day i shall.
 
 ## end
 
-anyways thats my linux post ... everyone use linux now!!!! lets make the world Linux~~~
+anyways thats my linux post ... everyone use linux now. lets make the world Linux~~~

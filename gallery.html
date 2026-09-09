@@ -3,11 +3,11 @@ title: gallery
 layout: default
 ---
 <h1>gallery</h1>
-
-<h2>~ <a href="art.html">[art gallery]</a></h2>
+<hr class="b">
+<h2>~ <a href="art.html">[view art gallery]</a></h2>
 <div class="artgallery">
 {% assign sorted_art = site.art | sort: 'date' | reverse %}
-{% for art in sorted_art limit:3 %}
+{% for art in sorted_art limit:4 %}
 <div class="artitem">
         <a href="{{ art.url }}"><img src="{{ art.image }}"></a>
       </div>

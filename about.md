@@ -4,15 +4,13 @@ title: about
 ---
 
 # about
-<hr class="b">
 
-hallo, my name is **marzi** (they/them)
-
-
-i am a dragon
+hallo, my name is **marcy**
 
 
-<hr class="b">
+i am a dragon and i love to create.
+
+<br>
 
 ## tools
 
@@ -25,23 +23,9 @@ i am a dragon
 **ide**: code - OSS
 
 **site**: jekyll
-<hr class="b">
 
+<br>
 ## links
 
-<p>🔞 <a href="https://bsky.app/profile/marzisuka.bsky.social">bluesky</a> ★ 🔞 <a href="https://www.furaffinity.net/user/marzisuka">furaffinity</a> ★ <a href="https://marzisuka.itch.io/">itch.io</a></p>
+<p>🔞 <a href="https://bsky.app/profile/marzipan.moe">bluesky</a> ★ 🔞 <a href="https://www.furaffinity.net/user/marzisuka">furaffinity</a> ★ <a href="https://marzisuka.itch.io/">itch.io</a></p>
 <p><b>email:</b> <a href="mailto:marzisuka@proton.me">marzisuka@proton.me</a></p>
-<hr class="b">
-## fav pokemon
-
-<div class="container">
-<div><a href="https://pokemondb.net/pokedex/goodra"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/goodra.png" alt="Goodra"></a></div>
-
-<div><a href="https://pokemondb.net/pokedex/reshiram"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/reshiram.png" alt="Reshiram"></a></div>
-<div><a href="https://pokemondb.net/pokedex/dragonite"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/dragonite.png" alt="Dragonite"></a></div>
-<div><a href="https://pokemondb.net/pokedex/serperior"><img src="https://img.pokemondb.net/sprites/black-white/normal/serperior.png" alt="Serperior"></a></div>
-<div><a href="https://pokemondb.net/pokedex/vaporeon"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/vaporeon.png" alt="Vaporeon"></a></div>
-<div><a href="https://pokemondb.net/pokedex/flygon"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/flygon.png" alt="Flygon"></a></div>
-<div><a href="https://pokemondb.net/pokedex/lurantis"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/lurantis.png" alt="Lurantis"></a></div>
-<div><a href="https://pokemondb.net/pokedex/mew"><img src="https://img.pokemondb.net/sprites/black-white/normal/mew.png" alt="Mew"></a></div>
-<div><a href="https://pokemondb.net/pokedex/latias"><img src="https://img.pokemondb.net/sprites/black-white/normal/latias.png" alt="Latias"></a></div>

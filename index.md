@@ -1,13 +1,19 @@
 ---
-title: marzisuka
+title: marzipan
 layout: default
 ---
 # home
 
-<hr class="b">
+welcome to the personal website of marcy, a creative type.
 
-welcome to the personal website of marzi, a creative type. this page is best viewed on a PC.
+this page is best viewed on a PC.
+
+this is my dragon den!
 
 **this site is 18+** ~ that is your only warning.
 
-lots of content is still being implemented / this site is a work in progress.
+<br>
+
+## ~ <a href="about.html">information</a>
+## ~ <a href="gallery.html">the gallery</a>
+## ~ <a href="blog.html">blog</a>

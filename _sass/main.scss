@@ -1,17 +1,25 @@
 body {
     @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
-    background-image: url("/assets/images/bg2.png");
+    background-image: url("/assets/images/bg3.png");
     background-size: 90px;
     background-repeat: repeat;
     font-family: "Arimo", sans-serif;
-    color: #0b0b5b;
+    color: #111191;
     font-size: 20px;
     margin: 0 auto;
     width: 70%;
+    scrollbar-width: thin;
 }
 
 header {
     text-align: left;
+}
+
+.headertext {
+    font-family: "Arimo", sans-serif;
+    font-size: 30px;
+    margin: 5px auto;
+    font-weight: bold;
 }
 
 .container {
@@ -23,24 +31,12 @@ header {
     gap: 3px;
 }
 
-.sidebar {
-    flex-grow: 0;
-    flex-shrink: 4;
-    width: 10%;
-    align-items: center;
-    border: 1px solid blue;
-    background-color: white;
-    padding: 10px;
-}
-
 .content {
-    flex-grow: 5;
-    width: 80%;
+    flex-grow: 2;
+    width: 60%;
     height: auto;
     padding: 10px;
     flex-shrink: 1;
-    border: 1px solid blue;
-    background-color: white;
 }
 
 footer {
@@ -75,14 +71,9 @@ img {
     margin: 0 auto;
 }
 
-img.small {
-    width: 200px;
-    margin: 0 auto;
-}
-
 .caption {
     font-size: 16px;
-    color: #686874;
+    color: #6d6d93;
 }
 hr.b {
     border: 1px dotted rgb(203, 203, 213);
@@ -107,18 +98,13 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(71, 71, 255);
-    text-decoration: underline;
+    color: white;
+    background-color: blue;
 }
 
 a:active {
     color: blue;
     text-decoration: underline;
-}
-
-.container {
-    display: flex;
-    flex-direction: row;
 }
 
 .artgallery {
@@ -141,7 +127,7 @@ a:active {
     transition: opacity 0.1s ease-in-out;
 }
 
-.artitem img:hover {
-    opacity: 0.6;
-    border: 1px solid blue;
+.artitem a:hover {
+    opacity: 0.5;
+    background-color: none;
 }

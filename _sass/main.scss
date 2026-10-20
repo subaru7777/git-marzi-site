@@ -7,7 +7,7 @@ body {
     color: #111191;
     font-size: 20px;
     margin: 0 auto;
-    width: 70%;
+    width: 50%;
     scrollbar-width: thin;
 }
 
@@ -23,20 +23,7 @@ header {
 }
 
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    min-height: 100%;
-    align-content: center;
-    gap: 3px;
-}
-
-.content {
-    flex-grow: 2;
-    width: 60%;
-    height: auto;
-    padding: 10px;
-    flex-shrink: 1;
+    margin: 0 auto;
 }
 
 footer {
@@ -67,8 +54,13 @@ p.center {
 }
 
 img {
-    width: 100%;
     margin: 0 auto;
+    width: 100%;
+}
+
+.smallimg {
+    margin: 0 auto;
+    width: 20%;
 }
 
 .caption {

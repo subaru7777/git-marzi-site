@@ -14,6 +14,10 @@ this is my dragon den!
 
 <br>
 
-## ~ <a href="about.html">information</a>
-## ~ <a href="gallery.html">the gallery</a>
-## ~ <a href="blog.html">blog</a>
+## 📝 ~ <a href="about.html">information</a>
+## 🖼️ ~ <a href="gallery.html">the gallery</a>
+## 💻 ~ <a href="blog.html">blog</a>
+
+<br> 
+
+<img class="smallimg" src="assets/images/darcysprite1.png">

@@ -8,7 +8,9 @@ title: about
 hallo, my name is **marcy**
 
 
-i am a dragon and i love to create.
+i am a serpentine dragon and i love to create.
+
+you will mostly find me drawing various creatures.
 
 <br>
 

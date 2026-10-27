@@ -3,12 +3,12 @@ layout: default
 title: blog
 ---
 <h1>blog</h1>
-
+<hr class="b">
     {% for post in site.posts %}
     
-        <p><a href="{{ post.url }}">{{ post.title }}</a> ~ <span class="caption">{{ post.date | date: "%m %-d %Y" }}</span></p>
+        <p>> <a href="{{ post.url }}">{{ post.title }}</a> ~ <span class="caption">{{ post.date | date: "%m %-d %Y" }}</span></p>
         
     {% endfor %}
 
-
+<hr class="b">
  <img class="smallimg" src="assets/images/nermitfull.png">   

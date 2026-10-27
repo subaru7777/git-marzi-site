@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: gallery
 title: art gallery
 ---
 <a href="/gallery.html">gallery</a> / <a href="art.html">art</a>
 <h2>2026</h2>
 <div class="artgallery">
-{% assign sorted_art = site.art | sort: 'order' | reverse %}
+{% assign sorted_art = site.art | sort: 'date' | reverse %}
   {% for art in sorted_art %}
 
     {% if art.year == 2026 %}

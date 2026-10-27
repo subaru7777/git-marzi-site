@@ -1,10 +1,10 @@
 ---
 title: gallery
-layout: default
+layout: gallery
 ---
 <h1>gallery</h1>
 
-<h2>digital art</h2>
+<h2>digital art ~ <a href="art.html">[view more]</a></h2>
 <div class="artgallery">
 {% assign sorted_art = site.art | sort: 'date' | reverse %}
 {% for art in sorted_art limit:5 %}
@@ -13,4 +13,3 @@ layout: default
       </div>
 {% endfor %}
 </div>
-<h2><a href="art.html">[view more]</a></h2>

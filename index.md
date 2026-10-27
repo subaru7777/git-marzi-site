@@ -6,11 +6,9 @@ layout: default
 
 welcome to the personal website of marcy, a creative type.
 
-this page is best viewed on a PC.
-
 this is my dragon den!
 
-**this site is 18+** ~ that is your only warning.
+**this site is for adults 18+**
 
 <br>
 
@@ -18,6 +16,6 @@ this is my dragon den!
 ## 🖼️ ~ <a href="gallery.html">the gallery</a>
 ## 💻 ~ <a href="blog.html">blog</a>
 
-<br> 
+<br>
 
 <img class="smallimg" src="assets/images/darcysprite1.png">

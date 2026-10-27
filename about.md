@@ -10,6 +10,8 @@ hallo, my name is **marcy**
 
 i am a serpentine dragon and i love to create.
 
+i am genderless (they/them)
+
 you will mostly find me drawing various creatures.
 
 <br>

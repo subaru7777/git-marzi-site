@@ -1,12 +1,16 @@
----
-layout: default
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+</head>
+<div class="containerblog">
         <a href="/blog.html">⟵</a>
         <h1>{{ page.title }}</h1> 
         <p><span class="caption">written: {{ page.date | date: "%B %-d, %Y" | downcase }}</span></p>
-        <hr class="b">
-        {{ content }}
+{{ content }}</div>
 
 </body>
 </html>
